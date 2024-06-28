@@ -15,13 +15,13 @@ The dataset was provided in the form of an excel sheet which contained the custo
 - Cutomer account information
 - Services provided
 
-## Overall analysis view:
+## Dashboard overview:
 
 ![Alt text]( images/data.png)
 ![Alt text]( images/churn_analysis.png)
 ![Alt text]( images/customer_retention_analysis.png)
 
-## **Dashboard Overview:**
+## **Overall analysis:**
 
 The analysis gives a breif overview of the factors responsible for the churning of customers. The Power BI dashboard provides visualizations and identifiest these key performance indicators(KPIs):
 
